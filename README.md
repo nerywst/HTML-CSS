@@ -1,6 +1,3 @@
-# Hello World!
- Primeiro Repositório no GitHub
-
-Respositório criado para aprender a Git e Github!
-
-Liha adicionada pelo Github!
+# Landing Page!
+Exemplo de LadingPage simples e direta.
+Utilizado somente HTML e CSS.
